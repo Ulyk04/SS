@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Protest+Revolution&family=Yatra+One&display=swap');
+
+body{
+    font-family: "Yatra One", system-ui;
+    font-weight: 400;
+    background-color: #9f9999;
+    padding: 0 0;
+}
+
+/*header*/
+
+header img{
+    width: 100px;
+    height: 100px;
+}
+.title-header{
+    display: flex;
+    justify-content: flex-start;
+    margin: 100px 100px;
+    color: white;
+}
+
+/* section - 1  */
+
+.desc-1 h1{
+    font-size: 110px;
+    color: white;
+}
+.desc-1 h1:nth-child(1){
+    margin-left: 200px;
+}
+.desc-1 h1:nth-child(2){
+    margin-left: 500px;
+}
+.desc-1 h1:nth-child(3){
+    margin-left: 800px;
+}
+.desc-1{
+    margin-left: 300px;
+    margin-top: -400px;
+}
+.btn-1 h4{
+    font-size: 40px;
+    color: white;
+}
+.btn-1{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 800px;
+    margin-top: -400px;
+}
+.btn-1 button{
+    width: 150px;
+    height: 150px;
+    border-radius: 70px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.image-1 img{
+    width: 700px;
+    height: 700px;
+    object-fit: cover;
+}
+.image-1{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -850px;
+}
+.section-1{
+    padding: 280px 0;
+}
+
+/*section - 2*/
+
+.section-2{
+    background-image: url('./images/translucent-image.png');
+    padding: 550px 0;
+    background-repeat: no-repeat;
+    background-size: cover;  
+    background-position: center;
+    color: white;
+}
+.desc-2 h1{
+    font-size: 120px;
+}
+.desc-2{
+    width: 1000px;
+    margin-left: 50px;
+    margin-top: 150px;
+}
+.desc-2-2 p{
+    font-size: 30px;
+}
+.desc-2-2{
+    width: 800px;
+    display: flex;
+    margin-left: 1000px;
+    margin-top: -950px;
+}
+
+/*section -3 */
+
+.section-3{
+    padding: 200px 0;
+}
+.title-3 h1{
+    font-size: 80px;
+    color: white;
+}
+.title-3{
+    width: 800px;
+    text-align: end;
+    margin-right: 50px;
+    margin-top: -200px;
+}
+.title-container-3{
+    display: flex;
+    justify-content: flex-end;
+}
+.container-3 img{
+    width: 350px;
+    height: 350px;
+}
+.big-container-3{
+    display: flex;
+    justify-content: center;
+    gap: 250px;
+}
+.container-3 p{
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+}
+/* section -4*/
+
+.section-4{
+    color: white;
+    padding: 200px 0;
+}
+
+.title-4 h1{
+    font-size: 80px;
+    margin-left: 40px;
+}
+.big-container-4{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+.container-4 img{
+    width: 400px;
+    height: 500px;
+}
+.container-4{
+    border: 2px solid white;
+    text-align: center;
+    padding: 20px 10px;
+}
+.container-4 p{
+    font-size: 25px;
+}
+.container-4 hr{
+    border: 2px solid white;
+}
+
+/*section -5*/
+.section-5{
+    padding: 200px 0;
+    color: white;
+}
+
+.container-5{
+    border: 0px solid white;
+    width: 800px;
+    height: 300px;
+}
+.big-container-5{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-top: -600px;
+    margin-right: 100px;
+}
+.title-5 h1{
+    font-size: 150px;
+}
+.container-5 p{
+    font-size: 30px;
+}
+.container-5 h1{
+    font-size: 30px;
+}
+.title-container-5{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+/* footer */
+
+footer{
+    background-color: white;
+    padding: 100px 0;
+    margin: 0 0;
+}
+.title-foot h1{
+    font-size: 150px;
+    margin-top: -100px;
+}
+.main-foot{
+    display: flex;
+    justify-content: center;
+    gap: 350px;
+}
+.main-foot h5{
+    font-size: 40px;
+}
+.main-foot p{
+    font-size: 30px;
+}
+.main-foot img{
+    width: 80px;
+    height: 80px;
+}
+.end-footer h1{
+    font-size: 100px;
+}
+.end-footer-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
