@@ -230,3 +230,521 @@ footer{
     justify-content: center;
     margin-top: 50px;
 }
+
+@media(min-width:992px) and (max-width:1199px){
+
+    /*section -1*/
+
+    .image-1 img{
+        width: 500px;
+        height: 500px;
+    }
+    .image-1{
+        margin-top: -850px;
+    }
+    .desc-1{
+        margin-left: 50px;
+    }
+    .btn-1{
+        margin-top: -450px;
+        gap: 150px;
+        margin-left: -420px;
+    }
+    .btn-1 h4{
+        width: 250px;
+        text-align: center;
+    }
+
+    /*section - 2*/
+
+    .desc-2-2{
+        margin-left: 650px;
+        width: 500px;
+    }
+
+    /*section - 3*/
+    .big-container-3{
+        gap: 60px;
+    }
+    /* section - 4*/
+
+    .big-container-4{
+        gap: 60px;
+       
+    }
+    .container-4 img{
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+    }
+    .title-4{
+        margin-top: -150px;
+    }
+
+    /* section - 5 */
+
+    .container-5 p{
+        font-size: 25px;
+    }
+    .container-5{
+        width: 500px;
+    }
+    .title-5{
+        margin-left: -150px;
+    }
+    .title-5 h1{
+        font-size: 120px;
+    }
+
+    /* footer */
+    .title-foot h1{
+        font-size: 100px;
+    }
+    .main-foot{
+        gap: 100px;
+    }
+    .container-foot h5{
+        font-size: 30px;
+    }
+    .container-foot p{
+        font-size: 25px;
+    }
+    .container-foot img{
+        width: 50px;
+        height: 50px;
+    }
+    .end-footer h1{
+        font-size: 70px;
+    }
+
+}
+
+@media(min-width:768px) and (max-width:991px ){
+     /*section -1*/
+
+     .image-1 img{
+        width: 400px;
+        height: 400px;
+    }
+    .image-1{
+        margin-top: -700px;
+    }
+    .desc-1{
+        margin-left: -150px;
+        margin-top: -450px;
+    }
+    .btn-1{
+        margin-top: -600px;
+        gap: 150px;
+        margin-left: -420px;
+    }
+    .btn-1 h4{
+        width: 250px;
+        text-align: center;
+    }
+
+    /*section - 2*/
+
+    .desc-2-2{
+        margin-left: 250px;
+        margin-top: -700px;
+        width: 700px;
+    }
+    .desc-2 h1{
+        font-size: 70px;
+    }
+    .desc-2{
+        margin-top: 250px;
+    }
+    
+
+    /*section - 3*/
+    .big-container-3{
+        gap: 10px;
+    }
+    .container-3 p{
+        font-size: 20px;
+    }
+    /* section - 4*/
+
+    .big-container-4{
+        gap: 60px;
+    }
+    .container-4 img{
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+    }
+    .title-4{
+        margin-top: -150px;
+    }
+
+    /* section - 5 */
+
+    .container-5 p{
+        font-size: 25px;
+    }
+    .container-5{
+        width: 500px;
+    }
+    .title-5{
+        margin-left: -150px;
+    }
+    .title-5 h1{
+        font-size: 120px;
+    }
+
+    /* footer */
+    .title-foot h1{
+        font-size: 100px;
+    }
+    .main-foot{
+        gap: 100px;
+    }
+    .container-foot h5{
+        font-size: 30px;
+    }
+    .container-foot p{
+        font-size: 25px;
+    }
+    .container-foot img{
+        width: 50px;
+        height: 50px;
+    }
+    .end-footer h1{
+        font-size: 70px;
+    }
+    .big-container-5{
+        margin-right: 25px;
+    }
+}
+
+@media(min-width:481px) and (max-width:767px){
+     /*section -1*/
+
+     .image-1 img{
+        width: 300px;
+        height: 300px;
+    }
+    .image-1{
+        margin-top: -850px;
+    }
+    .desc-1{
+        margin-left: -150px;
+        margin-top: -350px;
+    }
+    .btn-1{
+        display: flex;
+        flex-direction: column;
+        margin-top: -600px;
+        gap: 50px;
+        margin-left: -420px;
+    }
+    .btn-1 h4{
+        width: 250px;
+        text-align: center;
+    }
+    .desc-1 h1{
+        font-size: 80px;
+    }
+    .desc-1 h1:nth-child(1){
+        margin-left: 200px;
+    }
+    .desc-1 h1:nth-child(2){
+        margin-left: 200px;
+    }
+    .desc-1 h1:nth-child(3){
+        margin-left: 200px;
+    }
+
+    /*section - 2*/
+
+    .desc-2-2{
+        margin-left: 20px;
+        margin-top: -600px;
+        width: 500px;
+    }
+    .desc-2 h1{
+        font-size: 60px;
+    }
+    .desc-2{
+        margin-top: 250px;
+    }
+    .desc-2-2 p{
+        font-size: 28px;
+    }
+    
+
+    /*section - 3*/
+    .big-container-3{
+        gap: 10px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .container-3 p{
+        font-size: 20px;
+    }
+    .title-3 h1{
+        font-size: 40px;
+        text-align: center;
+    }
+    /* section - 4*/
+
+    .big-container-4{
+        gap: 10px;
+    }
+    .container-4 img{
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+    }
+    .title-4{
+        margin-top: -150px;
+    }
+
+    /* section - 5 */
+
+    .container-5 p{
+        font-size: 25px;
+    }
+    .container-5 h1{
+        font-size: 25px;
+    }
+    .container-5{
+        width: 400px;
+    }
+    .title-container-5{
+        display: flex;
+        justify-content: center;
+    }
+    .title-5{
+        margin-top: -500px;
+        margin-left: -200px;
+    }
+    .title-5 h1{
+        font-size: 80px;
+    }
+    .big-container-5{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        margin-top: -250px;
+        margin-left: 100px;
+    }
+
+    /* footer */
+    .title-foot h1{
+        font-size: 80px;
+    }
+    .main-foot{
+        gap: 100px;
+    }
+    .container-foot h5{
+        font-size: 30px;
+    }
+    .container-foot p{
+        font-size: 25px;
+    }
+    .container-foot img{
+        width: 50px;
+        height: 50px;
+    }
+    .end-footer h1{
+        font-size: 70px;
+    }
+    .big-container-5{
+        margin-right: 25px;
+    }
+    .main-foot{
+        padding: 20px 50px;
+    }
+}
+
+@media(max-width:480px){
+    .title-header img{
+        width: 50px;
+        height: 50px;
+    }
+    .title-header h1{
+        font-size: 20px;
+    }
+    .title-header{
+        margin-top: 10px;
+    }
+       /*section -1*/
+    .desc-1 h1{
+        font-size: 60px;
+        color: white;
+    }
+    .desc-1 h1:nth-child(1){
+        margin-left: -50px;
+    }
+    .desc-1 h1:nth-child(2){
+        margin-left: 20px;
+    }
+    .desc-1 h1:nth-child(3){
+        margin-left: 100px;
+    }
+    .desc-1 h1{
+        font-size: 30px;
+    }
+    .desc-1{
+        margin-left: 150px;
+        margin-top: -200px;
+    }
+    .btn-1 h4{
+        font-size: 20px;
+        color: white;
+    }
+    .btn-1{
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+        gap: 150px;
+        margin-top: -50px;
+    }
+    .btn-1 button{
+        width: 100px;
+        height: 50px;
+        border-radius: 30px;
+        font-size: 15px;
+        cursor: pointer;
+    }
+    .image-1 img{
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+    }
+    .image-1{
+        display: flex;
+        justify-content: flex-end;
+        margin-top: -400px;
+    }
+    .section-1{
+        padding: 150px 0;
+    }
+
+    /*section - 2*/
+    .section-2{
+        padding: 250px 0px;
+    }
+    .desc-2-2{
+        margin-left: 10px;
+        margin-top: -500px;
+        width: 450px;
+        text-align: center;
+    }
+    .desc-2 h1{
+        font-size: 35px;
+    }
+    .desc-2{
+        width: 500px;
+        text-align: center;
+        margin-top: 150px;
+        margin-left: -20px;
+    }
+    .desc-2-2 p{
+        font-size: 20px;
+    }
+    
+
+    /*section - 3*/
+    .big-container-3{
+        gap: 10px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .container-3 p{
+        font-size: 20px;
+    }
+    .title-3 h1{
+        font-size: 40px;
+        text-align: center;
+    }
+    .title-3{
+        margin-left: 30px;
+    }
+    /* section - 4*/
+
+    .big-container-4{
+        gap: 10px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .container-4 img{
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+    }
+    .title-4{
+        margin-top: -150px;
+        margin-left: -30px;
+        text-align: center;
+    }
+
+    /* section - 5 */
+
+    .container-5 p{
+        font-size: 25px;
+    }
+    .container-5 h1{
+        font-size: 25px;
+    }
+    .container-5{
+        width: 400px;
+    }
+    .title-container-5{
+        display: flex;
+        justify-content: center;
+    }
+    .title-5{
+        margin-top: -500px;
+        margin-left: -200px;
+    }
+    .title-5 h1{
+        font-size: 80px;
+    }
+    .big-container-5{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        margin-top: -250px;
+        margin-left: 50px;
+    }
+
+    /* footer */
+    .title-foot h1{
+        font-size: 80px;
+    }
+    .main-foot{
+        gap: 100px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .container-foot h5{
+        font-size: 30px;
+    }
+    .container-foot p{
+        font-size: 25px;
+    }
+    .container-foot img{
+        width: 50px;
+        height: 50px;
+    }
+    .end-footer h1{
+        font-size: 50px;
+        margin-left: 10px;
+    }
+    .big-container-5{
+        margin-right: 25px;
+    }
+    .main-foot{
+        padding: 20px 50px;
+    }
+}
