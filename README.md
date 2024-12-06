@@ -3,7 +3,7 @@
 **SS-style** This is a website layout for selling sports and hip-hop style clothing and shoes.strates.
 
 ## 🚀 [View Live Website](https://Ulyk04.github.io/SPRIT)  
-(https://ulyk04.github.io/SPRIT/)
+https://ulyk04.github.io/SS/
 
 ---
 
